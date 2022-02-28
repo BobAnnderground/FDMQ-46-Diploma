@@ -377,6 +377,7 @@ h1 {
 
 .new-post-image {
   width: 70px;
+  min-width: 70px;
 }
 
 .new-post-date {
